@@ -3,7 +3,7 @@
 title: Abid Hasan
 description: Mechanical Engineer | BUET | Undergrad
 
-baseurl: "/www" #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: "1910157@me.buet.ac.bd" #
 
